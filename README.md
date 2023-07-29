@@ -24,8 +24,8 @@
 <!-- [![Jokes Card](https://readme-jokes.vercel.app/api)](#nolink) -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sunnyxujian/sunnyxujian/d291211525007bf07266c6cf304a0a7cdd793d72/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sunnyxujian/sunnyxujian/d291211525007bf07266c6cf304a0a7cdd793d72/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
